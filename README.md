@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Flutter Developer Path
+- I’m currently learning about Flutter and being expert 
 <!--
 **andiilhamsyahidris/andiilhamsyahidris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
