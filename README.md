@@ -6,7 +6,7 @@
 ##
 <p>I am someone who likes to learn and is very interested with mobile development using Flutter and everything related to it, i am also very happy design a beatiful user interface and amazing user experience</p>
 
-* Computer Science student :student: at [Hasanuddin University](https://unhas.ac.id/v2/ "target=_blank"), Indonesia :indonesia:
+* Bachelor Degree of Information System :student: at [Hasanuddin University](https://unhas.ac.id/v2/ "target=_blank"), Indonesia :indonesia:
 * Currently studying Flutter and UI/UX
 * Feel free to ask me about flutter
 * You can find me on my [LinkedIn](https://www.linkedin.com/in/andiilhamsyahidris/ "target=_blank")
